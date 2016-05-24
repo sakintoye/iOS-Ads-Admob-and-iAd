@@ -5,7 +5,7 @@ Add ads to your iOS apps with this tiny helper. Currently supports Google AdMob 
 ##Instruction
 
 - Import Ads.swift into your project.
-- For Google AdMob, locate `AdUnitID` in Ads.swift and change it's value to your AdMob ID
+- For Google AdMob, locate `AdUnitID` in Ads.swift and change its value to your AdMob ID
 
 ##Usage
 In your view controller, add the following code to `viewDidLoad()` method
